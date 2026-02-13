@@ -10,7 +10,7 @@ HTML과 CSS를 사용해 나를 소개하는 웹페이지를 만들었습니다.
 
 ## 실행 방법
 GitHub Pages를 이용해 웹사이트로 공개하였습니다.
-주소: https://아이디.github.io/저장소이름/
+주소: https://qpdb999.github.io/homework/
 
 ## 수정한 내용
 - 배경색을 파란색으로 변경함
